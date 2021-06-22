@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Hello World from Brazil by Yuki Sato'),
+          title: Text('Hello World from Brazil by Yuki Sato, Prospere Kim'),
         ),
       ),
     ),
