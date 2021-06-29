@@ -7,7 +7,7 @@ void main() {
         appBar: AppBar(
           title: Text('Hello World from Brazil, but living in  CAMBODIA  by Yuki Sato, Prospere Kim, Yiyi, thida'),
         ),
-        body: Center(child: Text('Maneth'))
+        body: Center(child: Text('Maneth hoeun'))
       ),
     ),
   );
